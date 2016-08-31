@@ -1,2 +1,2 @@
 # FloppidyDingo.github.io
-tfujyu
+This is the website for FloppidyDingo Studios
